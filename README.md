@@ -1,2 +1,2 @@
 # MemberRequest
-Create an issue in this repo to get into this Org.
+请在issue中发加入请求
